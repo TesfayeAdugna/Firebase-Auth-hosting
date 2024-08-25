@@ -7,12 +7,12 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-        apiKey: "AIzaSyBwT6zX86GUQY3mxyxctbAkNwdOJoUkoXo",
+        apiKey: "Your API Key",
        
-        projectId: "video-call-auth",
+        projectId: "Your project id",
         
-        messagingSenderId: "453184111105",
-        appId: "1:453184111105:web:647e34ecf33cf628c27600",
+        messagingSenderId: "your messaging sender id",
+        appId: "your app Id",
       
       
       
